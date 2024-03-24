@@ -1,5 +1,30 @@
 # SimplySaiVenkat 👋
 
+### 📬 Find me at
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simplysaivenkat&label=Profile%20views&color=0e75b6&style=flat" alt="simplysaivenkat" /> </p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/simplysaivenkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="simplysaivenkat" height="30" width="40" /></a>
+<a href="https://twitter.com/simplysaivenkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simplysaivenkat" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/simplysaivenkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="simplysaivenkat" height="30" width="40" /></a>
+<a href="https://fb.com/simplysaivenkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="simplysaivenkat" height="30" width="40" /></a>
+<a href="https://instagram.com/simplysaivenkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplysaivenkat" height="30" width="40" /></a>
+<a href="https://medium.com/@simplysaivenkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@simplysaivenkat" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/simplysaivenkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplysaivenkat" height="30" width="40" /></a>
+<a href="https://discord.gg/simplysaivenkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="simplysaivenkat" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/simplysaivenkat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplysaivenkat" /></a><a href="https://ko-fi.com/simplysaivenkat"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="simplysaivenkat" /></a></p><br><br>
+
+
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="/assets/208593.gif">
 </div>
