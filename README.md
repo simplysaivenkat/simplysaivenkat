@@ -27,10 +27,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </p>
 
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="/assets/208593.gif">
-</div>
-
 </br>
 </br>
 </br>
